@@ -1,0 +1,10 @@
+{
+  "name": "com.TestLeeFramework",
+  "displayName": "TestDisplayName",
+  "version": "1.5.6",
+  "documentationUrl": "https://github.com/GGDevLee/JustTest",
+  "changelogUrl": "https://github.com/GGDevLee/JustTest",
+  "licensesUrl": "https://github.com/GGDevLee/JustTest/blob/main/LICENSE.txt",
+  "description": "This asset helps you see debug messages (logs, warnings, errors, exceptions) runtime in a build (also assertions in editor) and execute commands using its built-in console. It also supports logging logcat messages to the console on Android platform.",
+  "hideInEditor": false
+}
